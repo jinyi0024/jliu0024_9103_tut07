@@ -115,5 +115,5 @@ function lerpColors(t, colors)
 	)
 }
 ```
-![An image of the example code](readmeImages/screenshot3.png)
+
 ![An image of the introduction](readmeImages/screenshot4.png)
