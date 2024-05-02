@@ -1,4 +1,4 @@
-# jliu0024_9103_tut07
+# Quiz 8
 
 
 1. **Imaging Technique Inspiration**  
@@ -116,4 +116,4 @@ function lerpColors(t, colors)
 }
 ```
 
-![An image of the introduction](readmeImages/screenshot4.png)
+![An image of the introduction](readmeImages/screenshot3.png)
